@@ -4,4 +4,5 @@ Unlike online backup, an offline backup strategy does not use software or the cl
 An offline target location could be a physical piece of hardware such as an external hard drive, USB, or even a DVD. Alternatively, it might be on the same device as the source data but in a separate space that is accessible when the device is not connected to the internet.
 
 Offline backup is also known as “local backup” and “removable backup”. Like online backup, you can refer to offline backup in terms of temperature: “cold backup”. This is because this type of backup is performed when the system is offline and the data cannot be accessed to update
-![image](https://github.com/toozande/offlinebackup/assets/39301260/ff456641-b8e2-4ca8-bb13-053e22347f60)
+
+
